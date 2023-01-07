@@ -1,6 +1,6 @@
 let table = document.getElementById('game_table');
-let rows = 5;
-let cell = 5;
+let rows = 6;
+let cell = 6;
 let numbres = [];
 let number_cell;
 let btn_start = document.getElementById('start');
